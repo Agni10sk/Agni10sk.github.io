@@ -9,7 +9,7 @@ about.addEventListener('click', () => {
     title: 'About Me',
     // modal: true,
     width: '350px',
-    height: '390px',
+    height: '350px',
     top: 165,
     right: 50,
     bottom: 50,
@@ -28,7 +28,7 @@ contact.addEventListener('click', () => {
   const contactBox = new WinBox({
     title: 'Contact Me',
     width: '350px',
-    height: '390px',
+    height: '350px',
     top: 175,
     right: 50,
     bottom: 50,
